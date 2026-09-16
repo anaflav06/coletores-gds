@@ -25,6 +25,31 @@
       "criado_em": "2026-09-16T14:17:33",
       "atualizado_em": "2026-09-16T14:17:33",
       "criado_por": "julia"
+    },
+    {
+      "id": "5ccb26cf-ce0a-4a18-97d5-c3bf70e5bae5",
+      "nome_equipamento": "GDS2026-08",
+      "tipo": "COLETOR",
+      "localizacao": "CPQ08",
+      "status": "DISPONÍVEL",
+      "responsavel_atual": "EXPEDIÇÃO",
+      "imei": "357917081016879",
+      "wifi_mac": "94:FB:29:C5:D8:E1",
+      "pn_modelo": "TC25BJ10C102BR",
+      "serial": "20078521401106",
+      "mfd": "27MAR20",
+      "modelo": "TC25BJ",
+      "android": "8.1.0",
+      "tem_case": "Não",
+      "numero_lacre": "",
+      "senha_pin": "",
+      "email": "gdslog.coletor08@gmail.com",
+      "senha_equipamento": "C0letor8",
+      "observacao": "08/08/2025 TELA QUEBRADA ; 29/09 RETORNOU CONSERTADO",
+      "data_atualizacao": "2026-09-16",
+      "criado_em": "2026-09-16T14:37:21",
+      "atualizado_em": "2026-09-16T14:37:21",
+      "criado_por": "julia"
     }
   ],
   "movimentacoes": [],
@@ -37,6 +62,14 @@
       "acao": "CADASTRO EQUIPAMENTO",
       "item_id": "d243cee4-5f0b-4bcd-aabb-4cf34b03d899",
       "detalhe": "GDS2026-07"
+    },
+    {
+      "id": "99d63d97-fed9-422d-9fd7-116ce452b912",
+      "data_hora": "2026-09-16T14:37:21",
+      "usuario": "julia",
+      "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "5ccb26cf-ce0a-4a18-97d5-c3bf70e5bae5",
+      "detalhe": "GDS2026-08"
     }
   ]
 }
