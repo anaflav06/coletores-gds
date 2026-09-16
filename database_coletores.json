@@ -1,7 +1,42 @@
 {
   "version": 1,
-  "equipamentos": [],
+  "equipamentos": [
+    {
+      "id": "d243cee4-5f0b-4bcd-aabb-4cf34b03d899",
+      "nome_equipamento": "GDS2026-07",
+      "tipo": "COLETOR",
+      "localizacao": "CDSP2",
+      "status": "DISPONÍVEL",
+      "responsavel_atual": "EXPEDIÇÃO",
+      "imei": "",
+      "wifi_mac": "C8:1C:FE:2A:9E:54",
+      "pn_modelo": "TC210K-01B212-A6",
+      "serial": "22227523022819",
+      "mfd": "15AUG22",
+      "modelo": "TC21",
+      "android": "11",
+      "tem_case": "Não",
+      "numero_lacre": "",
+      "senha_pin": "",
+      "email": "gdslog.coletor07@gmail.com",
+      "senha_equipamento": "Coletor07",
+      "observacao": "NÃO CONSEGUIMOS ABRIR   A PARTE DE TRÁS  PARA  VERO IMEI  15/12/2025- BOTÃO DE LEITURA ; 19/12/2025 RETONOU CONSERTADO",
+      "data_atualizacao": "2026-09-16",
+      "criado_em": "2026-09-16T14:17:33",
+      "atualizado_em": "2026-09-16T14:17:33",
+      "criado_por": "julia"
+    }
+  ],
   "movimentacoes": [],
   "assistencias": [],
-  "auditoria": []
+  "auditoria": [
+    {
+      "id": "a7d1615a-61f1-45e1-82b9-14e4eb482ac4",
+      "data_hora": "2026-09-16T14:17:33",
+      "usuario": "julia",
+      "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "d243cee4-5f0b-4bcd-aabb-4cf34b03d899",
+      "detalhe": "GDS2026-07"
+    }
+  ]
 }
