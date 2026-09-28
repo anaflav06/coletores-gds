@@ -31,7 +31,7 @@
       "nome_equipamento": "GDS2026-08",
       "tipo": "COLETOR",
       "localizacao": "CPQ08",
-      "status": "EM USO",
+      "status": "EM ASSISTÊNCIA",
       "responsavel_atual": "EXPEDIÇÃO",
       "imei": "357917081016879",
       "wifi_mac": "94:FB:29:C5:D8:E1",
@@ -45,10 +45,10 @@
       "senha_pin": "",
       "email": "gdslog.coletor08@gmail.com",
       "senha_equipamento": "C0letor8",
-      "observacao": "08/08/2025 TELA QUEBRADA ; 29/09 RETORNOU CONSERTADO",
+      "observacao": "08/08/2025 TELA QUEBRADA ; 29/09 RETORNOU CONSERTADO   \n28/09/2026 ESTÁ INDO PARA ASSISTENCIA PQ É BLOQUEADO E ESTÁ SAINDO DOS APLICATIVOS SOZINHO",
       "data_atualizacao": "2026-09-16",
       "criado_em": "2026-09-16T14:37:21",
-      "atualizado_em": "2026-09-22T19:56:13",
+      "atualizado_em": "2026-09-28T12:50:14",
       "criado_por": "julia"
     },
     {
@@ -122,6 +122,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-09-25T18:24:42",
       "registrado_por": "julia"
+    },
+    {
+      "id": "a13249ac-73d1-499c-8621-71f8123337e2",
+      "equipamento_id": "5ccb26cf-ce0a-4a18-97d5-c3bf70e5bae5",
+      "equipamento": "GDS2026-08",
+      "data": "2026-09-28",
+      "origem": "CPQ08",
+      "destino": "CPQ08",
+      "responsavel_anterior": "EXPEDIÇÃO",
+      "responsavel_novo": "EXPEDIÇÃO",
+      "status_anterior": "EM USO",
+      "status_novo": "EM ASSISTÊNCIA",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-09-28T12:50:14",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -173,6 +188,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "aab64cab-e8aa-43c2-a133-5e6df034a09b",
       "detalhe": "GDS2026-02"
+    },
+    {
+      "id": "8c75b9ef-d0c3-4adf-b2e2-1ca4989f5d6c",
+      "data_hora": "2026-09-28T12:50:14",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "5ccb26cf-ce0a-4a18-97d5-c3bf70e5bae5",
+      "detalhe": "GDS2026-08"
     }
   ]
 }
