@@ -105,7 +105,7 @@
       "id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
       "nome_equipamento": "GDS2026-04",
       "tipo": "COLETOR",
-      "localizacao": "CPQ08",
+      "localizacao": "CDSP2",
       "status": "DISPONÍVEL",
       "responsavel_atual": "EXPEDIÇÃO",
       "imei": "357917080108602",
@@ -123,7 +123,7 @@
       "observacao": "VOLTOU DA ASSISTENCIA 01/10",
       "data_atualizacao": "2026-10-01",
       "criado_em": "2026-10-01T20:09:34",
-      "atualizado_em": "2026-10-01T20:09:34",
+      "atualizado_em": "2026-10-01T20:10:06",
       "criado_por": "julia"
     }
   ],
@@ -186,6 +186,21 @@
       "status_novo": "EM ASSISTÊNCIA",
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-09-28T12:50:14",
+      "registrado_por": "julia"
+    },
+    {
+      "id": "b5fa2e1e-22d9-48ea-b0d0-b78ebba86480",
+      "equipamento_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "equipamento": "GDS2026-04",
+      "data": "2026-10-01",
+      "origem": "CPQ08",
+      "destino": "CDSP2",
+      "responsavel_anterior": "EXPEDIÇÃO",
+      "responsavel_novo": "EXPEDIÇÃO",
+      "status_anterior": "DISPONÍVEL",
+      "status_novo": "DISPONÍVEL",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-10-01T20:10:06",
       "registrado_por": "julia"
     }
   ],
@@ -268,6 +283,14 @@
       "data_hora": "2026-10-01T20:09:34",
       "usuario": "julia",
       "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "detalhe": "GDS2026-04"
+    },
+    {
+      "id": "8f542610-7841-4d95-bcfb-969e1dfb18f1",
+      "data_hora": "2026-10-01T20:10:06",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
       "detalhe": "GDS2026-04"
     }
