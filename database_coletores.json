@@ -106,7 +106,7 @@
       "nome_equipamento": "GDS2026-04",
       "tipo": "COLETOR",
       "localizacao": "CDSP2",
-      "status": "DISPONÍVEL",
+      "status": "EM USO",
       "responsavel_atual": "EXPEDIÇÃO",
       "imei": "357917080108602",
       "wifi_mac": "94:FB:29:05:87:DF",
@@ -123,7 +123,7 @@
       "observacao": "VOLTOU DA ASSISTENCIA 01/10",
       "data_atualizacao": "2026-10-01",
       "criado_em": "2026-10-01T20:09:34",
-      "atualizado_em": "2026-10-01T20:10:06",
+      "atualizado_em": "2026-10-15T18:15:24",
       "criado_por": "julia"
     }
   ],
@@ -232,6 +232,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-10-15T18:15:08",
       "registrado_por": "julia"
+    },
+    {
+      "id": "ff45ebc7-ae84-4eb9-97d3-1554de4dc6b2",
+      "equipamento_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "equipamento": "GDS2026-04",
+      "data": "2026-10-15",
+      "origem": "CDSP2",
+      "destino": "CDSP2",
+      "responsavel_anterior": "EXPEDIÇÃO",
+      "responsavel_novo": "EXPEDIÇÃO",
+      "status_anterior": "DISPONÍVEL",
+      "status_novo": "EM USO",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-10-15T18:15:24",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -339,6 +354,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "ee0570b7-ce11-45d6-8b34-581e4b9d5ecf",
       "detalhe": "GDS2026-01"
+    },
+    {
+      "id": "3c4e836b-7eeb-41e3-81cb-f6141fcbdfe5",
+      "data_hora": "2026-10-15T18:15:24",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "detalhe": "GDS2026-04"
     }
   ]
 }
