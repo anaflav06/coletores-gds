@@ -31,7 +31,7 @@
       "nome_equipamento": "GDS2026-08",
       "tipo": "COLETOR",
       "localizacao": "CPQ08",
-      "status": "EM ASSISTÊNCIA",
+      "status": "EM USO",
       "responsavel_atual": "EXPEDIÇÃO",
       "imei": "357917081016879",
       "wifi_mac": "94:FB:29:C5:D8:E1",
@@ -48,7 +48,7 @@
       "observacao": "08/08/2025 TELA QUEBRADA ; 29/09 RETORNOU CONSERTADO   \n28/09/2026 ESTÁ INDO PARA ASSISTENCIA PQ É BLOQUEADO E ESTÁ SAINDO DOS APLICATIVOS SOZINHO",
       "data_atualizacao": "2026-09-16",
       "criado_em": "2026-09-16T14:37:21",
-      "atualizado_em": "2026-09-28T12:50:58",
+      "atualizado_em": "2026-10-15T18:14:38",
       "criado_por": "julia"
     },
     {
@@ -202,6 +202,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-10-01T20:10:06",
       "registrado_por": "julia"
+    },
+    {
+      "id": "e0b0222c-4247-4307-8389-7192bbca26d2",
+      "equipamento_id": "5ccb26cf-ce0a-4a18-97d5-c3bf70e5bae5",
+      "equipamento": "GDS2026-08",
+      "data": "2026-10-15",
+      "origem": "CPQ08",
+      "destino": "CPQ08",
+      "responsavel_anterior": "EXPEDIÇÃO",
+      "responsavel_novo": "EXPEDIÇÃO",
+      "status_anterior": "EM ASSISTÊNCIA",
+      "status_novo": "EM USO",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-10-15T18:14:38",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -293,6 +308,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
       "detalhe": "GDS2026-04"
+    },
+    {
+      "id": "bbcb7139-1d64-456e-be19-3f15a3145ffa",
+      "data_hora": "2026-10-15T18:14:38",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "5ccb26cf-ce0a-4a18-97d5-c3bf70e5bae5",
+      "detalhe": "GDS2026-08"
     }
   ]
 }
