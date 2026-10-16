@@ -128,9 +128,9 @@
     },
     {
       "id": "9aa61d1a-ce8f-4d9a-8e56-af4db2418ba0",
-      "nome_equipamento": "GDS2026",
+      "nome_equipamento": "GDS2026 -05",
       "tipo": "COLETOR",
-      "localizacao": "CPQ08",
+      "localizacao": "CDSP2",
       "status": "EM USO",
       "responsavel_atual": "EXPEDIÇÃO",
       "imei": "357917080735917",
@@ -148,7 +148,7 @@
       "observacao": "",
       "data_atualizacao": "2026-10-15",
       "criado_em": "2026-10-15T18:29:42",
-      "atualizado_em": "2026-10-15T18:29:42",
+      "atualizado_em": "2026-10-16T16:29:40",
       "criado_por": "julia"
     }
   ],
@@ -271,6 +271,21 @@
       "status_novo": "EM USO",
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-10-15T18:15:24",
+      "registrado_por": "julia"
+    },
+    {
+      "id": "b8103620-c0c9-4072-8417-289bca2add11",
+      "equipamento_id": "9aa61d1a-ce8f-4d9a-8e56-af4db2418ba0",
+      "equipamento": "GDS2026 -05",
+      "data": "2026-10-16",
+      "origem": "CPQ08",
+      "destino": "CDSP2",
+      "responsavel_anterior": "EXPEDIÇÃO",
+      "responsavel_novo": "EXPEDIÇÃO",
+      "status_anterior": "EM USO",
+      "status_novo": "EM USO",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-10-16T16:29:40",
       "registrado_por": "julia"
     }
   ],
@@ -395,6 +410,14 @@
       "acao": "CADASTRO EQUIPAMENTO",
       "item_id": "9aa61d1a-ce8f-4d9a-8e56-af4db2418ba0",
       "detalhe": "GDS2026"
+    },
+    {
+      "id": "e36b4125-2495-49a2-96b9-da43fe156a24",
+      "data_hora": "2026-10-16T16:29:40",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "9aa61d1a-ce8f-4d9a-8e56-af4db2418ba0",
+      "detalhe": "GDS2026 -05"
     }
   ]
 }
