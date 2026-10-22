@@ -123,7 +123,7 @@
       "observacao": "VOLTOU DA ASSISTENCIA 01/10 - VAI PARA ASSISTÊNCIA COM A TELA SOLTA 22/10",
       "data_atualizacao": "2026-10-01",
       "criado_em": "2026-10-01T20:09:34",
-      "atualizado_em": "2026-10-22T18:14:34",
+      "atualizado_em": "2026-10-22T18:20:53",
       "criado_por": "julia"
     },
     {
@@ -437,6 +437,14 @@
     {
       "id": "50c9eb4d-1d79-472d-99aa-1a9a7c50243d",
       "data_hora": "2026-10-22T18:14:34",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "detalhe": "GDS2026-04"
+    },
+    {
+      "id": "c24b6805-3123-40e3-ad49-cfdd61fbe04e",
+      "data_hora": "2026-10-22T18:20:53",
       "usuario": "julia",
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
