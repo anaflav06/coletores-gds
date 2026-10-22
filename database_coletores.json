@@ -106,7 +106,7 @@
       "nome_equipamento": "GDS2026-04",
       "tipo": "COLETOR",
       "localizacao": "CDSP2",
-      "status": "EM USO",
+      "status": "EM ASSISTÊNCIA",
       "responsavel_atual": "EXPEDIÇÃO",
       "imei": "357917080108602",
       "wifi_mac": "94:FB:29:05:87:DF",
@@ -120,10 +120,10 @@
       "senha_pin": "L",
       "email": "gdslog.coletor04@gmail.com",
       "senha_equipamento": "Coletor04",
-      "observacao": "VOLTOU DA ASSISTENCIA 01/10",
+      "observacao": "VOLTOU DA ASSISTENCIA 01/10 - VAI PARA ASSISTÊNCIA COM A TELA SOLTA 22/10",
       "data_atualizacao": "2026-10-01",
       "criado_em": "2026-10-01T20:09:34",
-      "atualizado_em": "2026-10-15T18:15:24",
+      "atualizado_em": "2026-10-22T18:14:34",
       "criado_por": "julia"
     },
     {
@@ -287,6 +287,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-10-16T16:29:40",
       "registrado_por": "julia"
+    },
+    {
+      "id": "e0cf6503-57db-4ae4-9f16-e26a3c968528",
+      "equipamento_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "equipamento": "GDS2026-04",
+      "data": "2026-10-22",
+      "origem": "CDSP2",
+      "destino": "CDSP2",
+      "responsavel_anterior": "EXPEDIÇÃO",
+      "responsavel_novo": "EXPEDIÇÃO",
+      "status_anterior": "EM USO",
+      "status_novo": "EM ASSISTÊNCIA",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-10-22T18:14:34",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -418,6 +433,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "9aa61d1a-ce8f-4d9a-8e56-af4db2418ba0",
       "detalhe": "GDS2026 -05"
+    },
+    {
+      "id": "50c9eb4d-1d79-472d-99aa-1a9a7c50243d",
+      "data_hora": "2026-10-22T18:14:34",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "detalhe": "GDS2026-04"
     }
   ]
 }
