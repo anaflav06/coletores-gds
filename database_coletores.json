@@ -106,7 +106,7 @@
       "nome_equipamento": "GDS2026-04",
       "tipo": "COLETOR",
       "localizacao": "CDSP2",
-      "status": "EM ASSISTÊNCIA",
+      "status": "EM USO",
       "responsavel_atual": "EXPEDIÇÃO",
       "imei": "357917080108602",
       "wifi_mac": "94:FB:29:05:87:DF",
@@ -120,10 +120,10 @@
       "senha_pin": "L",
       "email": "gdslog.coletor04@gmail.com",
       "senha_equipamento": "Coletor04",
-      "observacao": "VOLTOU DA ASSISTENCIA 01/10 - VAI PARA ASSISTÊNCIA COM A TELA SOLTA 22/10",
+      "observacao": "VOLTOU DA ASSISTENCIA 01/10 - VAI PARA ASSISTÊNCIA COM A TELA SOLTA 22/10 - VOLTOU DA ASSISTENCIA  27/10",
       "data_atualizacao": "2026-10-01",
       "criado_em": "2026-10-01T20:09:34",
-      "atualizado_em": "2026-10-22T18:20:53",
+      "atualizado_em": "2026-10-27T15:28:06",
       "criado_por": "julia"
     },
     {
@@ -302,6 +302,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-10-22T18:14:34",
       "registrado_por": "julia"
+    },
+    {
+      "id": "5b7332e3-1c33-4822-a1cc-0a90953eab8e",
+      "equipamento_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "equipamento": "GDS2026-04",
+      "data": "2026-10-27",
+      "origem": "CDSP2",
+      "destino": "CDSP2",
+      "responsavel_anterior": "EXPEDIÇÃO",
+      "responsavel_novo": "EXPEDIÇÃO",
+      "status_anterior": "EM ASSISTÊNCIA",
+      "status_novo": "EM USO",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-10-27T15:28:06",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -445,6 +460,14 @@
     {
       "id": "c24b6805-3123-40e3-ad49-cfdd61fbe04e",
       "data_hora": "2026-10-22T18:20:53",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
+      "detalhe": "GDS2026-04"
+    },
+    {
+      "id": "050f551c-88e2-4f9d-8c56-3045c25542a6",
+      "data_hora": "2026-10-27T15:28:06",
       "usuario": "julia",
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
