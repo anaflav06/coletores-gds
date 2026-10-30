@@ -150,6 +150,31 @@
       "criado_em": "2026-10-15T18:29:42",
       "atualizado_em": "2026-10-16T16:29:40",
       "criado_por": "julia"
+    },
+    {
+      "id": "d6a6783d-f297-4f61-bcf4-e760041a1431",
+      "nome_equipamento": "GDS2026-09",
+      "tipo": "COLETOR",
+      "localizacao": "CPQ08",
+      "status": "DISPONÍVEL",
+      "responsavel_atual": "EDI",
+      "imei": "",
+      "wifi_mac": "78:B8:D6:78:1E:CE",
+      "pn_modelo": "",
+      "serial": "22007523021089",
+      "mfd": "",
+      "modelo": "TC210K",
+      "android": "10",
+      "tem_case": "Não",
+      "numero_lacre": "",
+      "senha_pin": "L",
+      "email": "gdslog.coletor03@gmail.com",
+      "senha_equipamento": "Coletor03",
+      "observacao": "NÃO CONSEGUIMOS ABRIR O APARELHO",
+      "data_atualizacao": "2026-10-30",
+      "criado_em": "2026-10-30T15:47:25",
+      "atualizado_em": "2026-10-30T15:47:25",
+      "criado_por": "julia"
     }
   ],
   "movimentacoes": [
@@ -472,6 +497,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "8f6033f5-d78c-4525-ae83-6a6584f0d9c4",
       "detalhe": "GDS2026-04"
+    },
+    {
+      "id": "da6f894f-bf11-4d3b-bc6a-0c80c8751e27",
+      "data_hora": "2026-10-30T15:47:25",
+      "usuario": "julia",
+      "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "d6a6783d-f297-4f61-bcf4-e760041a1431",
+      "detalhe": "GDS2026-09"
     }
   ]
 }
