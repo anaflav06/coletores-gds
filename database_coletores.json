@@ -300,6 +300,31 @@
       "criado_em": "2026-10-30T18:32:14",
       "atualizado_em": "2026-10-30T18:32:14",
       "criado_por": "julia"
+    },
+    {
+      "id": "d404346e-4b17-4478-9184-7110e9d6ee26",
+      "nome_equipamento": "GDS2026-25",
+      "tipo": "COLETOR",
+      "localizacao": "CPQ08",
+      "status": "DISPONÍVEL",
+      "responsavel_atual": "EXPEDIÇÃO",
+      "imei": "352714113719835",
+      "wifi_mac": "C8:1C:FE:5A:B9:0E",
+      "pn_modelo": "",
+      "serial": "",
+      "mfd": "",
+      "modelo": "TC26BK",
+      "android": "10",
+      "tem_case": "Não",
+      "numero_lacre": "",
+      "senha_pin": "",
+      "email": "gds.coletor25@gmail.com",
+      "senha_equipamento": "Coletor25@gds",
+      "observacao": "",
+      "data_atualizacao": "2026-10-30",
+      "criado_em": "2026-10-30T18:35:44",
+      "atualizado_em": "2026-10-30T18:35:44",
+      "criado_por": "julia"
     }
   ],
   "movimentacoes": [
@@ -670,6 +695,14 @@
       "acao": "CADASTRO EQUIPAMENTO",
       "item_id": "9cef4a34-d903-44cc-9845-e1bfd8428294",
       "detalhe": "GDS2026-17"
+    },
+    {
+      "id": "20a0bae8-dc4f-46a9-b04f-a5710348d648",
+      "data_hora": "2026-10-30T18:35:44",
+      "usuario": "julia",
+      "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "d404346e-4b17-4478-9184-7110e9d6ee26",
+      "detalhe": "GDS2026-25"
     }
   ]
 }
