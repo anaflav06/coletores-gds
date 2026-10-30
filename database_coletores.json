@@ -225,6 +225,31 @@
       "criado_em": "2026-10-30T18:14:53",
       "atualizado_em": "2026-10-30T18:14:53",
       "criado_por": "julia"
+    },
+    {
+      "id": "7af06513-41d2-4ed9-aeac-bbad69a8e926",
+      "nome_equipamento": "GDS2026-13",
+      "tipo": "COLETOR",
+      "localizacao": "CPQ08",
+      "status": "DISPONÍVEL",
+      "responsavel_atual": "EXPEDIÇÃO",
+      "imei": "351917080733913",
+      "wifi_mac": "78:B8:D6:76:F3:5C",
+      "pn_modelo": "TC210K-01A222-A6",
+      "serial": "21116523023206",
+      "mfd": "26APR21",
+      "modelo": "TC210K",
+      "android": "10",
+      "tem_case": "Não",
+      "numero_lacre": "",
+      "senha_pin": "L",
+      "email": "gds.coletor13@gmail.com",
+      "senha_equipamento": "Coletor13@gds",
+      "observacao": "",
+      "data_atualizacao": "2026-10-30",
+      "criado_em": "2026-10-30T18:17:53",
+      "atualizado_em": "2026-10-30T18:17:53",
+      "criado_por": "julia"
     }
   ],
   "movimentacoes": [
@@ -571,6 +596,14 @@
       "acao": "CADASTRO EQUIPAMENTO",
       "item_id": "72af0737-dd9b-48eb-8ba7-382883eb55a4",
       "detalhe": "GDS2026-24"
+    },
+    {
+      "id": "deb3b6dd-8518-4034-a470-f31bea4ad91f",
+      "data_hora": "2026-10-30T18:17:53",
+      "usuario": "julia",
+      "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "7af06513-41d2-4ed9-aeac-bbad69a8e926",
+      "detalhe": "GDS2026-13"
     }
   ]
 }
