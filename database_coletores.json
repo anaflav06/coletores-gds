@@ -306,7 +306,7 @@
       "nome_equipamento": "GDS2026-25",
       "tipo": "COLETOR",
       "localizacao": "CPQ08",
-      "status": "DISPONÍVEL",
+      "status": "EM USO",
       "responsavel_atual": "EXPEDIÇÃO",
       "imei": "352714113719835",
       "wifi_mac": "C8:1C:FE:5A:B9:0E",
@@ -323,7 +323,7 @@
       "observacao": "",
       "data_atualizacao": "2026-10-30",
       "criado_em": "2026-10-30T18:35:44",
-      "atualizado_em": "2026-10-30T18:35:44",
+      "atualizado_em": "2026-10-30T18:48:20",
       "criado_por": "julia"
     }
   ],
@@ -506,6 +506,21 @@
       "status_novo": "EM USO",
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-10-30T18:48:09",
+      "registrado_por": "julia"
+    },
+    {
+      "id": "65e0b50b-a436-4a58-ba5f-656693a7a80d",
+      "equipamento_id": "d404346e-4b17-4478-9184-7110e9d6ee26",
+      "equipamento": "GDS2026-25",
+      "data": "2026-10-30",
+      "origem": "CPQ08",
+      "destino": "CPQ08",
+      "responsavel_anterior": "EXPEDIÇÃO",
+      "responsavel_novo": "EXPEDIÇÃO",
+      "status_anterior": "DISPONÍVEL",
+      "status_novo": "EM USO",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-10-30T18:48:20",
       "registrado_por": "julia"
     }
   ],
@@ -726,6 +741,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "d6a6783d-f297-4f61-bcf4-e760041a1431",
       "detalhe": "GDS2026-09"
+    },
+    {
+      "id": "8c4ea440-118f-4e19-a7c0-b727248d591a",
+      "data_hora": "2026-10-30T18:48:20",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "d404346e-4b17-4478-9184-7110e9d6ee26",
+      "detalhe": "GDS2026-25"
     }
   ]
 }
