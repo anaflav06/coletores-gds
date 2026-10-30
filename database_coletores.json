@@ -156,7 +156,7 @@
       "nome_equipamento": "GDS2026-09",
       "tipo": "COLETOR",
       "localizacao": "CPQ08",
-      "status": "DISPONÍVEL",
+      "status": "EM USO",
       "responsavel_atual": "EDI",
       "imei": "",
       "wifi_mac": "78:B8:D6:78:1E:CE",
@@ -173,7 +173,7 @@
       "observacao": "NÃO CONSEGUIMOS ABRIR O APARELHO",
       "data_atualizacao": "2026-10-30",
       "criado_em": "2026-10-30T15:47:25",
-      "atualizado_em": "2026-10-30T15:47:25",
+      "atualizado_em": "2026-10-30T18:48:09",
       "criado_por": "julia"
     },
     {
@@ -492,6 +492,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-10-27T15:28:06",
       "registrado_por": "julia"
+    },
+    {
+      "id": "bde3949b-c900-48df-bfe3-3b56dc729b3a",
+      "equipamento_id": "d6a6783d-f297-4f61-bcf4-e760041a1431",
+      "equipamento": "GDS2026-09",
+      "data": "2026-10-30",
+      "origem": "CPQ08",
+      "destino": "CPQ08",
+      "responsavel_anterior": "EDI",
+      "responsavel_novo": "EDI",
+      "status_anterior": "DISPONÍVEL",
+      "status_novo": "EM USO",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-10-30T18:48:09",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -703,6 +718,14 @@
       "acao": "CADASTRO EQUIPAMENTO",
       "item_id": "d404346e-4b17-4478-9184-7110e9d6ee26",
       "detalhe": "GDS2026-25"
+    },
+    {
+      "id": "12f700ee-c2f6-4660-92d7-442ee6bbd5de",
+      "data_hora": "2026-10-30T18:48:09",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "d6a6783d-f297-4f61-bcf4-e760041a1431",
+      "detalhe": "GDS2026-09"
     }
   ]
 }
