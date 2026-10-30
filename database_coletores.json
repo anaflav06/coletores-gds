@@ -275,6 +275,31 @@
       "criado_em": "2026-10-30T18:23:21",
       "atualizado_em": "2026-10-30T18:23:21",
       "criado_por": "julia"
+    },
+    {
+      "id": "9cef4a34-d903-44cc-9845-e1bfd8428294",
+      "nome_equipamento": "GDS2026-17",
+      "tipo": "COLETOR",
+      "localizacao": "CPQ08",
+      "status": "DISPONÍVEL",
+      "responsavel_atual": "",
+      "imei": "357917080786365",
+      "wifi_mac": "94:FB:29:89:4C:5F",
+      "pn_modelo": "TC25BJ-102BR",
+      "serial": "19231521402021",
+      "mfd": "26SEP19",
+      "modelo": "TC25BJ",
+      "android": "8.1.0",
+      "tem_case": "Não",
+      "numero_lacre": "",
+      "senha_pin": "",
+      "email": "gds.coletor17@gmail.com",
+      "senha_equipamento": "Coletor17@gds",
+      "observacao": "",
+      "data_atualizacao": "2026-10-30",
+      "criado_em": "2026-10-30T18:32:14",
+      "atualizado_em": "2026-10-30T18:32:14",
+      "criado_por": "julia"
     }
   ],
   "movimentacoes": [
@@ -637,6 +662,14 @@
       "acao": "CADASTRO EQUIPAMENTO",
       "item_id": "0bbd4301-193d-4bf3-9ab6-331442681b6b",
       "detalhe": "GDS2026-23"
+    },
+    {
+      "id": "cc705bce-a81d-4ff9-bdab-bd9f7b2b1402",
+      "data_hora": "2026-10-30T18:32:14",
+      "usuario": "julia",
+      "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "9cef4a34-d903-44cc-9845-e1bfd8428294",
+      "detalhe": "GDS2026-17"
     }
   ]
 }
