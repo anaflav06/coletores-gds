@@ -155,7 +155,7 @@
       "id": "d6a6783d-f297-4f61-bcf4-e760041a1431",
       "nome_equipamento": "GDS2026-09",
       "tipo": "COLETOR",
-      "localizacao": "CPQ08",
+      "localizacao": "CDSP2",
       "status": "EM USO",
       "responsavel_atual": "EDI",
       "imei": "",
@@ -173,7 +173,7 @@
       "observacao": "NÃO CONSEGUIMOS ABRIR O APARELHO",
       "data_atualizacao": "2026-10-30",
       "criado_em": "2026-10-30T15:47:25",
-      "atualizado_em": "2026-10-30T18:48:09",
+      "atualizado_em": "2026-11-03T13:47:26",
       "criado_por": "julia"
     },
     {
@@ -582,6 +582,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-10-30T18:49:04",
       "registrado_por": "julia"
+    },
+    {
+      "id": "97ddfda8-44af-4311-9da9-b483755e950c",
+      "equipamento_id": "d6a6783d-f297-4f61-bcf4-e760041a1431",
+      "equipamento": "GDS2026-09",
+      "data": "2026-11-03",
+      "origem": "CPQ08",
+      "destino": "CDSP2",
+      "responsavel_anterior": "EDI",
+      "responsavel_novo": "EDI",
+      "status_anterior": "EM USO",
+      "status_novo": "EM USO",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-11-03T13:47:26",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -841,6 +856,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "9cef4a34-d903-44cc-9845-e1bfd8428294",
       "detalhe": "GDS2026-17"
+    },
+    {
+      "id": "27066992-4fde-4467-bfea-4d56e4dfb542",
+      "data_hora": "2026-11-03T13:47:26",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "d6a6783d-f297-4f61-bcf4-e760041a1431",
+      "detalhe": "GDS2026-09"
     }
   ]
 }
