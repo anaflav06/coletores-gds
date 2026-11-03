@@ -357,7 +357,7 @@
       "tipo": "COLETOR",
       "localizacao": "ASSISTÊNCIA",
       "status": "EM ASSISTÊNCIA",
-      "responsavel_atual": "",
+      "responsavel_atual": "ASSISTÊNCIA",
       "imei": "354176061597779",
       "wifi_mac": "",
       "pn_modelo": "TC75BHKA11ES",
@@ -373,7 +373,7 @@
       "observacao": "NÃO É COMPATIVEL COM OS APLICATIVOS QUE USAMOS, NÃO ESTAMOS UTILIZANDO.",
       "data_atualizacao": "2026-11-03",
       "criado_em": "2026-11-03T14:13:37",
-      "atualizado_em": "2026-11-03T14:14:26",
+      "atualizado_em": "2026-11-03T14:20:08",
       "criado_por": "julia"
     },
     {
@@ -717,6 +717,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-11-03T14:14:46",
       "registrado_por": "julia"
+    },
+    {
+      "id": "658c77af-c4e1-438b-a52e-a2b960f2b57b",
+      "equipamento_id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
+      "equipamento": "GDS2025-10",
+      "data": "2026-11-03",
+      "origem": "ASSISTÊNCIA",
+      "destino": "ASSISTÊNCIA",
+      "responsavel_anterior": "",
+      "responsavel_novo": "ASSISTÊNCIA",
+      "status_anterior": "EM ASSISTÊNCIA",
+      "status_novo": "EM ASSISTÊNCIA",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-11-03T14:20:08",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -1032,6 +1047,14 @@
       "acao": "CADASTRO EQUIPAMENTO",
       "item_id": "dfabe543-1f86-41e7-b77e-14edbcafed8a",
       "detalhe": "GDS2025-11"
+    },
+    {
+      "id": "6c103cfc-3b6d-4d51-bbd6-c0a324d839a7",
+      "data_hora": "2026-11-03T14:20:08",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
+      "detalhe": "GDS2025-10"
     }
   ]
 }
