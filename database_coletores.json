@@ -350,6 +350,31 @@
       "criado_em": "2026-11-03T14:06:41",
       "atualizado_em": "2026-11-03T14:06:41",
       "criado_por": "julia"
+    },
+    {
+      "id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
+      "nome_equipamento": "GDS2025-10",
+      "tipo": "COLETOR",
+      "localizacao": "CPQ08",
+      "status": "DISPONÍVEL",
+      "responsavel_atual": "",
+      "imei": "354176061597779",
+      "wifi_mac": "",
+      "pn_modelo": "TC75BHKA11ES",
+      "serial": "",
+      "mfd": "",
+      "modelo": "TC75",
+      "android": "5.1.1",
+      "tem_case": "Não",
+      "numero_lacre": "",
+      "senha_pin": "",
+      "email": "gdslog.coletor10@gmail.com",
+      "senha_equipamento": "Coletor10",
+      "observacao": "NÃO É COMPATIVEL COM OS APLICATIVOS QUE USAMOS",
+      "data_atualizacao": "2026-11-03",
+      "criado_em": "2026-11-03T14:13:37",
+      "atualizado_em": "2026-11-03T14:13:37",
+      "criado_por": "julia"
     }
   ],
   "movimentacoes": [
@@ -920,6 +945,14 @@
       "acao": "CADASTRO EQUIPAMENTO",
       "item_id": "088eb55c-e0f4-4ecc-8664-787d37637949",
       "detalhe": "GDS2025-26"
+    },
+    {
+      "id": "b2f93893-677b-4ad4-9fbe-a44ec8d42c26",
+      "data_hora": "2026-11-03T14:13:37",
+      "usuario": "julia",
+      "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
+      "detalhe": "GDS2025-10"
     }
   ]
 }
