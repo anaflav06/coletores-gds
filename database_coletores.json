@@ -325,6 +325,31 @@
       "criado_em": "2026-10-30T18:35:44",
       "atualizado_em": "2026-10-30T18:48:20",
       "criado_por": "julia"
+    },
+    {
+      "id": "088eb55c-e0f4-4ecc-8664-787d37637949",
+      "nome_equipamento": "GDS2025-26",
+      "tipo": "COLETOR",
+      "localizacao": "CDSP2",
+      "status": "INATIVO",
+      "responsavel_atual": "ASSISTÊNCIA",
+      "imei": "352714113719884",
+      "wifi_mac": "C8:1C:FE:5A:B9:23",
+      "pn_modelo": "TC26BK11A222BR",
+      "serial": "22284523021303",
+      "mfd": "11OCT22",
+      "modelo": "TC26BK",
+      "android": "7.1.2",
+      "tem_case": "Não",
+      "numero_lacre": "",
+      "senha_pin": "",
+      "email": "",
+      "senha_equipamento": "",
+      "observacao": "A TELA NÃO ESTÁ LIGANDO.",
+      "data_atualizacao": "2026-11-03",
+      "criado_em": "2026-11-03T14:06:41",
+      "atualizado_em": "2026-11-03T14:06:41",
+      "criado_por": "julia"
     }
   ],
   "movimentacoes": [
@@ -887,6 +912,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "5ccb26cf-ce0a-4a18-97d5-c3bf70e5bae5",
       "detalhe": "GDS2026-08"
+    },
+    {
+      "id": "53eb5c90-e526-4e19-ac59-db328d30a77e",
+      "data_hora": "2026-11-03T14:06:41",
+      "usuario": "julia",
+      "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "088eb55c-e0f4-4ecc-8664-787d37637949",
+      "detalhe": "GDS2025-26"
     }
   ]
 }
