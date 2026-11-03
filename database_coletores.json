@@ -331,7 +331,7 @@
       "nome_equipamento": "GDS2025-26",
       "tipo": "COLETOR",
       "localizacao": "CDSP2",
-      "status": "INATIVO",
+      "status": "EM ASSISTÊNCIA",
       "responsavel_atual": "ASSISTÊNCIA",
       "imei": "352714113719884",
       "wifi_mac": "C8:1C:FE:5A:B9:23",
@@ -348,7 +348,7 @@
       "observacao": "A TELA NÃO ESTÁ LIGANDO.",
       "data_atualizacao": "2026-11-03",
       "criado_em": "2026-11-03T14:06:41",
-      "atualizado_em": "2026-11-03T14:06:41",
+      "atualizado_em": "2026-11-03T14:14:46",
       "criado_por": "julia"
     },
     {
@@ -677,6 +677,21 @@
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-11-03T14:14:26",
       "registrado_por": "julia"
+    },
+    {
+      "id": "784a0673-6020-4d95-b8cd-fdb63b48981c",
+      "equipamento_id": "088eb55c-e0f4-4ecc-8664-787d37637949",
+      "equipamento": "GDS2025-26",
+      "data": "2026-11-03",
+      "origem": "CDSP2",
+      "destino": "CDSP2",
+      "responsavel_anterior": "ASSISTÊNCIA",
+      "responsavel_novo": "ASSISTÊNCIA",
+      "status_anterior": "INATIVO",
+      "status_novo": "EM ASSISTÊNCIA",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-11-03T14:14:46",
+      "registrado_por": "julia"
     }
   ],
   "assistencias": [],
@@ -976,6 +991,14 @@
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
       "detalhe": "GDS2025-10"
+    },
+    {
+      "id": "53cc513e-a50f-44bc-911b-3c32498b114b",
+      "data_hora": "2026-11-03T14:14:46",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "088eb55c-e0f4-4ecc-8664-787d37637949",
+      "detalhe": "GDS2025-26"
     }
   ]
 }
