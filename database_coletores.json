@@ -355,8 +355,8 @@
       "id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
       "nome_equipamento": "GDS2025-10",
       "tipo": "COLETOR",
-      "localizacao": "CPQ08",
-      "status": "DISPONÍVEL",
+      "localizacao": "ASSISTÊNCIA",
+      "status": "EM ASSISTÊNCIA",
       "responsavel_atual": "",
       "imei": "354176061597779",
       "wifi_mac": "",
@@ -370,10 +370,10 @@
       "senha_pin": "",
       "email": "gdslog.coletor10@gmail.com",
       "senha_equipamento": "Coletor10",
-      "observacao": "NÃO É COMPATIVEL COM OS APLICATIVOS QUE USAMOS",
+      "observacao": "NÃO É COMPATIVEL COM OS APLICATIVOS QUE USAMOS, NÃO ESTAMOS UTILIZANDO.",
       "data_atualizacao": "2026-11-03",
       "criado_em": "2026-11-03T14:13:37",
-      "atualizado_em": "2026-11-03T14:13:37",
+      "atualizado_em": "2026-11-03T14:14:26",
       "criado_por": "julia"
     }
   ],
@@ -661,6 +661,21 @@
       "status_novo": "EM USO",
       "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
       "registrado_em": "2026-11-03T13:48:33",
+      "registrado_por": "julia"
+    },
+    {
+      "id": "7ce79ffd-7ace-4a80-9ef2-29c4c4c1c6c6",
+      "equipamento_id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
+      "equipamento": "GDS2025-10",
+      "data": "2026-11-03",
+      "origem": "CPQ08",
+      "destino": "ASSISTÊNCIA",
+      "responsavel_anterior": "",
+      "responsavel_novo": "",
+      "status_anterior": "DISPONÍVEL",
+      "status_novo": "EM ASSISTÊNCIA",
+      "observacao": "Movimentação gerada automaticamente pela edição do cadastro.",
+      "registrado_em": "2026-11-03T14:14:26",
       "registrado_por": "julia"
     }
   ],
@@ -951,6 +966,14 @@
       "data_hora": "2026-11-03T14:13:37",
       "usuario": "julia",
       "acao": "CADASTRO EQUIPAMENTO",
+      "item_id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
+      "detalhe": "GDS2025-10"
+    },
+    {
+      "id": "523a9e8e-c410-42f4-92ff-4a495b3684a2",
+      "data_hora": "2026-11-03T14:14:26",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "282cbed5-ccde-49f9-aa3e-434ff3ef8c2a",
       "detalhe": "GDS2025-10"
     }
