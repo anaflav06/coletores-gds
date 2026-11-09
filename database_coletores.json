@@ -348,7 +348,7 @@
       "observacao": "A TELA NÃO ESTÁ LIGANDO.",
       "data_atualizacao": "2026-11-03",
       "criado_em": "2026-11-03T14:06:41",
-      "atualizado_em": "2026-11-09T16:10:34",
+      "atualizado_em": "2026-11-09T16:11:45",
       "criado_por": "julia"
     },
     {
@@ -1115,6 +1115,14 @@
     {
       "id": "21e0c9a1-95c0-490c-94cf-2049bba7e7e4",
       "data_hora": "2026-11-09T16:10:34",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "088eb55c-e0f4-4ecc-8664-787d37637949",
+      "detalhe": "GDS2025-26"
+    },
+    {
+      "id": "0d035916-7f61-4260-81ba-be1f9432ac76",
+      "data_hora": "2026-11-09T16:11:45",
       "usuario": "julia",
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "088eb55c-e0f4-4ecc-8664-787d37637949",
