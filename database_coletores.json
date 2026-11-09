@@ -345,10 +345,10 @@
       "senha_pin": "",
       "email": "",
       "senha_equipamento": "",
-      "observacao": "A TELA NÃO ESTÁ LIGANDO.",
+      "observacao": "A TELA NÃO ESTÁ LIGANDO. CLICIO",
       "data_atualizacao": "2026-11-03",
       "criado_em": "2026-11-03T14:06:41",
-      "atualizado_em": "2026-11-09T16:11:45",
+      "atualizado_em": "2026-11-09T16:18:53",
       "criado_por": "julia"
     },
     {
@@ -1123,6 +1123,14 @@
     {
       "id": "0d035916-7f61-4260-81ba-be1f9432ac76",
       "data_hora": "2026-11-09T16:11:45",
+      "usuario": "julia",
+      "acao": "EDIÇÃO EQUIPAMENTO",
+      "item_id": "088eb55c-e0f4-4ecc-8664-787d37637949",
+      "detalhe": "GDS2025-26"
+    },
+    {
+      "id": "4ef6a7ed-24b5-4028-ba21-5e999d695948",
+      "data_hora": "2026-11-09T16:18:53",
       "usuario": "julia",
       "acao": "EDIÇÃO EQUIPAMENTO",
       "item_id": "088eb55c-e0f4-4ecc-8664-787d37637949",
